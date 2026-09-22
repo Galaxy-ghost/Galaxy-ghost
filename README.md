@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Galaxy 👋
+# Hi, I'm Shinax 👋
 
 ### Generative Recommendation · LLMs · Machine Learning
 
