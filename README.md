@@ -54,33 +54,6 @@ LLM / Representation Learning
   <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,linux,git,github,vscode,neovim&theme=dark" />
 </p>
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Galaxy-ghost&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxy-ghost&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Galaxy-ghost&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### From recommendation to generation.
-
-<sub>Build · Read · Experiment · Repeat</sub>
-
-</div>
 
 <!--
 **Galaxy-ghost/Galaxy-ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
